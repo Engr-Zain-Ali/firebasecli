@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "185762646669",
+    "project_id": "fir-cli-a5a65",
+    "storage_bucket": "fir-cli-a5a65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185762646669:android:c07a54da36e28dabbd70c4",
+        "android_client_info": {
+          "package_name": "com.example.firebasecli"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuJlIwS1GD8X_FiD0P8peF63k6cfvI8ZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
